@@ -9,6 +9,7 @@
 # configure your local ignore list.
 
 ## File system
+*.txt
 .DS_Store
 desktop.ini
 
